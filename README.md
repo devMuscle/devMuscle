@@ -12,6 +12,5 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMuscle&show_icons=true&theme=chartreuse-dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMuscle&layout=compact&theme=chartreuse-dark)
