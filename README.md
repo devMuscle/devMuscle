@@ -14,5 +14,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMuscle&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMuscle&layout=compact&theme=chartreuse-dark)
 
