@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=devMuscle&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Welcome%20to%20devMuscle&fontSize=50&animation=twinkling)
 
 <h3 align="center"> 🦾 Tech Stack 🦾 </h3>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
 <br><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMuscle&show_icons=true&theme=buefy)
+![Anurag's GitHub Repo Card](https://github-readme-stats.vercel.app/api?username=devMuscle&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMuscle&layout=compact-line&theme=buefy)
 
 </div>
