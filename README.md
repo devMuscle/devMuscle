@@ -16,9 +16,6 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
 <br><br>
   
-![Anurag's GitHub Repo Card](https://github-readme-stats.vercel.app/api?username=devMuscle&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMuscle&layout=compact-line&theme=buefy)
-
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hongxipyo">
 <img src="http://mazandi.herokuapp.com/api?handle=hongxipyo&theme=warm"/>
 </div>
